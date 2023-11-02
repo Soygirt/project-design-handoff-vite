@@ -8,19 +8,19 @@ border-color: hotpink;
 }
 
 img[alt="Hero"] {
-    width: fit-content;
-    height: 766px;
-    object-fit: cover;
+    width: 100%;
+
+
 }
 .h1 {
     position: absolute;
     margin: 0px;
     padding: 0px;
-    bottom: 40px;
+    bottom: 50px;
     left: 5px;
     color: white;
     font-family: Shorai Sans StdN;
-    font-size: 80px;
+    font-size: 35px;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
@@ -30,11 +30,11 @@ img[alt="Hero"] {
 
 .h2 {
     position: absolute;
-    bottom: 40px;
-    left: 16px;
+    bottom: 30px;
+    left: 1px;
     color: white;
     font-family: PP Eiko Italic;
-    font-size: 50px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
@@ -43,10 +43,10 @@ img[alt="Hero"] {
 
 .text {
     position: absolute;
-    width: 108px;
-    bottom: 100px;
+    width: 90px;
+    bottom: 90px;
     right: 7px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 900;
     color: #222F83;
 }
