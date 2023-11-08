@@ -3,8 +3,6 @@
 .container {
 position: relative;
 text-align: center;
-border: solid;
-border-color: hotpink;
 }
 
 img[alt="Hero"] {

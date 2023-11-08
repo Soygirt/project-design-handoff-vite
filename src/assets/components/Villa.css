@@ -1,0 +1,18 @@
+
+
+
+.houseH2 {
+font-size: 40px;
+color: #222F83;
+margin-left: 38px;
+}
+
+.houseTxt {
+    font-size: 32px;
+color: #222F83;
+margin-left: 38px;
+}
+
+img[alt="ourHouse"] {
+    width: 100%;
+}

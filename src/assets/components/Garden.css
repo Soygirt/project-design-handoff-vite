@@ -1,0 +1,37 @@
+
+.gardenContainer {
+position: relative;
+text-align: center;
+}
+
+img[alt="OurGarden"] {
+width: 100%;
+
+}
+
+.strollTxt {
+    color: white;
+
+    font-family: PP Eiko Italic;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    font-variant: all-small-caps;
+    position: absolute;
+    bottom: 150px;
+    left: 40px;
+}
+
+.gardenTxt {
+    color: white;
+    font-family: Shorai Sans StdN;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 950;
+    line-height: normal;
+    font-variant: all-small-caps;
+    position: absolute;
+    bottom: 30px;
+    left: 40px;
+}

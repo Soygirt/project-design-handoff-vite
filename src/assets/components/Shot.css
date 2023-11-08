@@ -1,0 +1,44 @@
+
+.shot {
+    position: relative;
+}
+
+.shotH1 {
+    color: white;
+position: absolute;
+bottom: 300px;
+left: 44px;
+font-size: 100px;
+font-style: normal;
+font-weight: 950;
+line-height: normal;
+}
+
+.shotH2 {
+    color:white;
+    position: absolute;
+    bottom: 250px;
+    left: 44px;
+    font-family: PP Eiko Italic;
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+.shotH3 {
+
+    color:white;
+    position: absolute;
+    bottom: 220px;
+    left: 44px;
+    font-family: PP Eiko Italic;
+font-size: 32px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+
+img[alt="shots"] {
+    width: 100%;
+    }
